@@ -1,4 +1,4 @@
-# Streaming-service-model
+# Streaming Service Model
 
 Developed by: Ana Fernanda Chacón Lomelí
 
